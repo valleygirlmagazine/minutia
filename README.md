@@ -1,2 +1,3 @@
 # minutia
-The basics of getting started, overview, FAQ, things to know
+> The basics of getting started, overview, FAQ, things to know
+
